@@ -1,0 +1,67 @@
+
+body {
+    background-color: #f8f9fa;
+    font-family: 'Roboto', sans-serif;
+}
+.jumbotron {
+    background-image: url('https://timelinecovers.pro/facebook-cover/download/lionel-messi-facebook-cover.jpg');
+    background-size: cover;
+    color: white;
+    text-shadow: 2px 2px 8px #000;
+    padding: 8rem 0;
+}
+.jumbotron h1 {
+    font-size: 4rem;
+    font-weight: bold;
+}
+.lead {
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+.btn-primary {
+    background-color: #dc3545;
+    border-color: #dc3545;
+}
+.btn-primary:hover {
+    background-color: #c82333;
+    border-color: #bd2130;
+}
+.navbar {
+    background-color: #343a40;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.1);
+}
+.navbar-brand {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.nav-link {
+    color: white;
+    font-size: 1.1rem;
+}
+.nav-link:hover {
+    color: #f8f9fa;
+}
+.card {
+    transition: transform .2s;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border: none;
+}
+.card:hover {
+    transform: scale(1.05);
+}
+.card-title {
+    font-size: 1.5rem;
+    font-weight: bold;
+}
+.card-text {
+    font-size: 1.1rem;
+}
+.footer {
+    background-color: #343a40;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
